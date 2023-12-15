@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Parttttty. My name is Doris Hu, working in a hospital.
+- 👀 I’m interested in Pharmacoeconomics and HTA.
+- 🌱 I’m currently learning R.
+- 💞️ I’m looking to collaborate on Markov model or Partitioned survival model in R or excel.
+- 📫 h1435086126@163.com
